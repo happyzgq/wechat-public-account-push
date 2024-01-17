@@ -35,17 +35,17 @@ const USER_CONFIG = {
         {
           type: '生日', name: '李四', year: '2000', date: '05-25',
         },
-        // {
-        //   type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
-        // },
+        {
+          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+        },
       ],
       // 我们在一起已经有xxxx天了的配置
-      // customizedDateList: [
-      //   // 在一起的日子
-      //   { keyword: 'love_day', date: '2022-09-08' },
-      //   // 结婚纪念日
-      //   { keyword: 'marry_day', date: '2022-09-09' },
-      // ],
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2022-09-08' },
+        // 结婚纪念日
+        { keyword: 'marry_day', date: '2022-09-09' },
+      ],
     },
   ],
 
